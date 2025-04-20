@@ -1,7 +1,8 @@
 /*
-Name: Eric Siqueira
-PRN: 23070126041
-Batch: 2023-27 Batch
+Name:Abhav Bhanot
+PRN: 23070126005
+Batch: AIML A-1 
+2023-27 Batch
 */
 
 import java.util.Scanner;
